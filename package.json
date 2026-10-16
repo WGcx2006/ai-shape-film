@@ -1,0 +1,1 @@
+{"name":"the-shape-of-intelligence","version":"1.0.0","private":true,"license":"MIT","type":"module","scripts":{"start":"node scripts/serve.mjs","stills":"node scripts/render.mjs stills","check":"node scripts/render.mjs check","export":"node scripts/export.mjs"},"dependencies":{"playwright":"1.62.1","sharp":"0.35.5"}}

@@ -1,0 +1,3 @@
+# Optional online speech synthesis; the film and original score need no TTS.
+# Existing requirements.txt provides NumPy.
+edge-tts==7.3.1

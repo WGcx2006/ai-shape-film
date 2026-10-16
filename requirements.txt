@@ -1,0 +1,2 @@
+# Original score synthesis. Video verification itself uses only the standard library.
+numpy>=1.26,<3
